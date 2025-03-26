@@ -5,13 +5,26 @@
 I'm a beginner in programming, currently exploring **Python** and building small projects to sharpen my skills. My goal is to develop more **complex and advanced applications** as I continue learning.  
 
 ## Skills  
-- **Programming**: Python (Basics)  
+- **Programming**: Python (Basics)
+
+## Tech Stack
+
+### **Libraries & Frameworks**
+- `qrcode` – QR code generation  
+- `pyzbar` – QR code scanning  
+- `Pillow` – Image processing  
+- `yt-dlp` – YouTube video downloading  
+
+### **Tools & Platforms**
+- **Git & GitHub** – Version Control  
+- **VS Code** – IDE  
+
 
 ## [Projects](https://github.com/harshvardhansr45?tab=repositories)
 
-- **[QR Code Generator & Reader](https://github.com/harshvardhansr45/QR-Reader-and-Generator)** – Create and scan QR codes easily  
-- **[Files Organizer](https://github.com/harshvardhansr45/Files-Organizer)** – Automatically sort files into folders based on their type.  
-- **[YouTube Video Downloader](https://github.com/harshvardhansr45/YouTube-Video-Downloader)** – A simple Python tool to download YouTube videos.  
+- **[QR Code Generator & Reader](https://github.com/harshvardhansr45/QR-Reader-and-Generator)** – Uses Python’s 'qrcode' library to generate and scan QR codes.
+- **[Files Organizer](https://github.com/harshvardhansr45/Files-Organizer)** – Automatically sorts files based on extensions using Python's 'os' module
+- **[YouTube Video Downloader](https://github.com/harshvardhansr45/YouTube-Video-Downloader)** – Uses 'yt-dlp' to fetch and download videos. 
 
   
 ## What I'm Working On  
