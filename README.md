@@ -7,7 +7,7 @@ I'm a beginner in programming, currently exploring **Python** and building small
 ## Skills  
 - **Programming**: Python (Basics)  
 
-## [Projects](#projects)
+## [Projects](https://github.com/harshvardhansr45?tab=repositories)
 
 - **[QR Code Generator & Reader](https://github.com/harshvardhansr45/QR-Reader-and-Generator)** – Create and scan QR codes easily  
 - **[Files Organizer](https://github.com/harshvardhansr45/Files-Organizer)** – Automatically sort files into folders based on their type.  
