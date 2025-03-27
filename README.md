@@ -28,4 +28,4 @@ I'm a beginner in programming, currently exploring **Python** and building small
 
   
 ## What I'm Working On  
-I'm actively learning **Python** and planning to build more **advanced projects** while improving my coding skills.  
+I'm actively learning **Python** and planning to build more **advanced projects** while improving my programming skills.  
